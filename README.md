@@ -60,5 +60,4 @@ Este es un proyecto a largo plazo que está empezando en Mayo del 2018, no se de
 Como ya he comentado es posible que tenga que hacer cambios en el indice, estos estarán basados en la necesidad del momento en el que los escriba, y en la experiencia que tenga en ese momento.
 Siempre intentaré ofrecer el mejor material posible dentro de mis circunstancias.
 
-# INDICE
-[Indice](./indice.md)
+# [INDICE](./indice.md)

@@ -7,7 +7,7 @@ Este proyecto está actualmente en proceso, sin fecha de finalización determina
 
 Cuando el proyecto tenga un alcance suficiente para alcanzar alguno de los objetivos, quitaré el titulo de En proceso y su descripción.
 
-##INDICE AL FINAL DEL DOCUMENTO
+## INDICE AL FINAL DEL DOCUMENTO
 
 ## Motivación
 Desde que aprendí a programar por mi cuenta y conseguí trabajo, hay bastante gente que se acerca a un Open Source Weekends a preguntarme como pueden hacer lo mismo.

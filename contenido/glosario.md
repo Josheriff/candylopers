@@ -2,7 +2,8 @@
 
 Este glosario seguirá orden alfabético e intentará reunir todos los términos anglosajones y algunos técnicos.
 
-**Agile** -> Pronunciado "ayail". Aunque muy amenudo se escucha tal cual suena en Español "agíle".
+### Agile
+ Pronunciado "ayail". Aunque muy amenudo se escucha tal cual suena en Español "agíle".
 
 Es una metodología de trabajo que todas las empresas que buscan desarrolladores dicen que usan, pero que en realidad en el mejor de los casos utilizan un sucedaneo propio o directamente no lo usan.
 
@@ -16,16 +17,24 @@ Una empresa que ejerza los valores agile de manera responsable para los trabajad
 
 
 
-**Backend** -> [Definición extensa](./quienhaceque.md) 
+### Backend
+[Definición extensa](./quienhaceque.md) 
 
-**Bullshit** -> Traducido literalmente significa "mierda de toro", es un termino muy extendido para indicar que algo no va al grano, no aporta, en resumen, "es una mierda".
+### Bullshit
 
-**Typo** -> Error tipográfico, es decir, se te resbala una letra, por ejemplo escribir "Pogramar" en lugar de "Programar".
+Traducido literalmente significa "mierda de toro", es un termino muy extendido para indicar que algo no va al grano, no aporta, en resumen, "es una mierda".
 
-**Programar** -> Lo que estás aprendiendo a aprender con este proyecto.
+### Typo
+
+Error tipográfico, es decir, se te resbala una letra, por ejemplo escribir "Pogramar" en lugar de "Programar".
+
+### Programar
+
+Lo que estás aprendiendo a aprender con este proyecto.
 
 Tiene muchas interpretaciones, entre las cuales se encuentran:
 
 - Dividir un problema grande en muchos pequeños y mas fáciles de solucionar.
 
-**Front-end** -> [Definición extensa](./quienhaceque.md)
+### Front-end
+[Definición extensa](./quienhaceque.md)

@@ -15,7 +15,9 @@ A veces, las técnicas Agile se utilizan de manera responsable y se consigue de 
 
 Una empresa que ejerza los valores agile de manera responsable para los trabajadores y clientes es un "mirlo blanco" que no debes dejar escapar.
 
+### Ansible
 
+Progama que automatiza ciertas configuraciones en sistemas linux, espcialmente útil si hay necesidad de tener varios sistemas con la misma configuración.
 
 ### Backend
 [Definición extensa](./quienhaceque.md#back-end) 
@@ -24,9 +26,16 @@ Una empresa que ejerza los valores agile de manera responsable para los trabajad
 
 Traducido literalmente significa "mierda de toro", es un termino muy extendido para indicar que algo no va al grano, no aporta, en resumen, "es una mierda".
 
-### Typo
+### Framework
 
-Error tipográfico, es decir, se te resbala una letra, por ejemplo escribir "Pogramar" en lugar de "Programar".
+Confunto de ordenes comunes pre-hechas en un lenguaje específico, que requiere de además una estructuración de archivos específica, y que, en principio está pensado para facilitar el trabajo del desarrollador.
+
+### Front-end
+[Definición extensa](./quienhaceque.md)
+
+### Librería
+
+Parecido al framework, pero no requiere de una estructuración de archivos específica para funcionar.
 
 ### Programar
 
@@ -36,5 +45,13 @@ Tiene muchas interpretaciones, entre las cuales se encuentran:
 
 - Dividir un problema grande en muchos pequeños y mas fáciles de solucionar.
 
-### Front-end
-[Definición extensa](./quienhaceque.md)
+### Typo
+
+Error tipográfico, es decir, se te resbala una letra, por ejemplo escribir "Pogramar" en lugar de "Programar".
+
+### Unix
+(Definición nada técnica y poco precisa)
+
+Sistema operativo libre que se maneja desde la consola o terminal, es decir, introduciendo ordenes escritas sin entorno gráfico.
+
+Mac OS X y Linux en todos sus sabores, están basados en Unix.

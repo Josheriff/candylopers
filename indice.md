@@ -1,3 +1,4 @@
 # INDICE
-[Glosario](./contenido/glosario.md)
-[Quien hace qué](./contenido/quienhaceque.md)
+- [Página de inicio](../README.md)
+- [Glosario](./contenido/glosario.md)
+- [Quien hace qué](./contenido/quienhaceque.md)

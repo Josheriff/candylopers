@@ -66,7 +66,7 @@ En ocasiones no tiene maqueta, por lo que necesitará tener conocimientos de tod
 
 Es bastante habitual que un programador de front acabe realizando todas las tareas, cada una de ellas con mejor o peor resultado.
 
-Es también habitual intentar sustituir alguno de los puestos anteriores con librerías o frameworks que le dan a la página o programa un aspecto igual que a otras muchísimas que han usado la misma herramienta.
+Es también habitual intentar sustituir alguno de los puestos anteriores con [librerías](./glosario.md#libreria) o [frameworks](./glosario.md#framework) que le dan a la página o programa un aspecto igual que a otras muchísimas que han usado la misma herramienta.
 
 ## Back-end
 
@@ -86,6 +86,6 @@ No lo he metido dentro de backender aunque mucha gente si lo hace, como ya he di
 
 Los sysadmin, o administradores de sistemas, son expertos en servidores y se encargan de que el código corra en las máquinas del servidor, de manera segura, estable y escalable.
 
-Para ello son principalmente expertos en Unix, y además en herramientas diseñadas para ellos como pueda ser Docker, o [Ansible.](./glosario.md#ansible)
+Para ello son principalmente expertos en [Unix](./glosario.md#unix), y además en herramientas diseñadas para ellos como pueda ser Docker, o [Ansible.](./glosario.md#ansible)
 
 Es una tarea tan difícil de realizar como de definir Apropiadamente.

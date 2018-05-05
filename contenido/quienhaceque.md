@@ -86,6 +86,6 @@ No lo he metido dentro de backender aunque mucha gente si lo hace, como ya he di
 
 Los sysadmin, o administradores de sistemas, son expertos en servidores y se encargan de que el código corra en las máquinas del servidor, de manera segura, estable y escalable.
 
-Para ello son principalmente expertos en Unix, y además en herramientas diseñadas para ellos como pueda ser Docker, o [Ansible.](./glosario.md###Ansible)
+Para ello son principalmente expertos en Unix, y además en herramientas diseñadas para ellos como pueda ser Docker, o [Ansible.](./glosario.md#ansible)
 
 Es una tarea tan difícil de realizar como de definir Apropiadamente.

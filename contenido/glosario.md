@@ -18,7 +18,7 @@ Una empresa que ejerza los valores agile de manera responsable para los trabajad
 
 
 ### Backend
-[Definición extensa](./quienhaceque.md) 
+[Definición extensa](./quienhaceque.md#back-end) 
 
 ### Bullshit
 

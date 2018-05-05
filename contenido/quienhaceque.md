@@ -51,11 +51,13 @@ Se vé mas claro con un ejemplo
 
 El maquetador pondrá todo donde le ha dicho el diseñador y este le dice que arriba a la derecha debe aparecer el mensaje:
 
-"Bienvenido de vuelta {{usuario}}" 
+> Bienvenido de vuelta {{usuario}}
 
 En la maquetación aparecerá exactamente eso.
 
 La intención es que en la fase final, en vez de aparecer la palabra "usuario", apararecerá el nombre del usuario.
+
+> Bienvenido de vuelta Josheriff
 
 ### Programador front
 Se encarga de darle vida a la maqueta que le pasa el maquetador.
@@ -86,4 +88,4 @@ Los sysadmin, o administradores de sistemas, son expertos en servidores y se enc
 
 Para ello son principalmente expertos en Unix, y además en herramientas diseñadas para ellos como pueda ser Docker, o ansible.
 
-Es una tarea tan difícil de realizar como de definir apropiadamente.
+Es una tarea tan difícil de realizar como de definir Apropiadamente.

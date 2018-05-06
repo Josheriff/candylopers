@@ -37,6 +37,26 @@ Confunto de ordenes comunes pre-hechas en un lenguaje específico, que requiere 
 
 Parecido al framework, pero no requiere de una estructuración de archivos específica para funcionar.
 
+### Meetup
+
+Aplicación que agrupa personas con un interes común, también se usa para denominar a ese grupo de personas, "El meetup de python"
+
+### Networking
+
+Charlar durante un evento con sus asistentes, normalmente con el objetivo de hacer conexiones profesionales.
+
+El networking funciona muchísimo mejor a la larga si no solo se espera recibir conexiones sino que también las facilitamos.
+
+### Open Source
+
+Traducido significa "código abierto", se trata de exponer al mundo la manera de fabricar o componer algo, en el mundo del desarrollo se muestra el código realizado.
+
+También considerado como una filosofía, la del compartir, la de la mente colectiva trabajando para un producto mejor.
+
+El Open Source representa tantas cosas y tan positivas que me es imposible definirlo en el glosario de una manera que le haga justicia.
+
+¡¡ VIVA EL OPEN SOURCE !!
+
 ### Programar
 
 Lo que estás aprendiendo a aprender con este proyecto.

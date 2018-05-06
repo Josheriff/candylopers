@@ -21,11 +21,18 @@ En lugar de subir fotos, se suben los proyectos [Open Source](./glosario.md#open
 
 - Publica en Twitter tus avances, incluso trozos de código.
 - Pregunta en Twitter dudas no demasiado densas, demostrará que sigues teniendo interes en aprender más y más.
-- Utiliza hashtags relacionados con el aprendizaje de la programación #100daysofcode, #soyuncandyloper, #NaNisNotAFunction.
+- Utiliza hashtags relacionados con el aprendizaje de la programación #100daysofcode, #candyloper, #NaNisNotAFunction.
 - Apuntate a los meetups de tu ciudad, y ve a eventos, conoce gente.
-- Menciona en tus cuentas de vez en cuando a comunidades de desarrollo, inspírate en sus logos, en sus colores para diseñar tus proyectos y dales las gracias por inspirarte.
-- No seas un borde ni te quejes demasiado.
+- Menciona en tus cuentas de vez en cuando a comunidades de desarrollo como @osweekends o @t3chfest, inspírate en sus logos, en sus colores para diseñar tus proyectos y dales las gracias por inspirarte.
+- No seas borde.
+- BOLA EXTRA, se ha creado la cuenta de twitter ***@candylopers*** que procurará dar visibilidad a todos aquellos que aprendan con el proyecto o participen en el.
 
-Por supesto todo esto no es para nada necesario, habrá gente que se sentirá tremendamente incomoda realizando este tipo de acciones, máxime habiendo sido presentadas aquí mismo como postureo.
+Por supesto todo esto no es para nada necesario, habrá gente que se sentirá tremendamente incomoda realizando este tipo de acciones, máxime habiendo sido presentadas aquí mismo como postureo. En tal caso has de saber que no es necesario.
 
-Pero es mi intención en este proyecto, llamar las cosas por su nombre, intentar formar una imagen en la cabeza de los que lo lean de como hacer las cosas más fáciles y si tu carácter te lo permite, te invito a que hagas ruido en redes sociales, escribas artículos y en definitiva fragües una marca personal atractiva para quien pueda querer contratar a un desarrollador.
+Pero es mi intención en este proyecto, ofrecer un punto de vista diferente, obviando lo políticamente correcto, en definitiva la realidad que en su día yo me encontré, aunque no tiene porque ser igual para todos.
+
+Intentar aconsejar a aquellos que están empezando con lo que me hubiera gustado a mi que me aconsejaran.
+
+Hacerles pues las cosas más fáciles.
+
+Te invito a que hagas ruido en redes sociales, escribas artículos y en definitiva fragües una marca personal atractiva para quien pueda querer contratar a un desarrollador que está empezando.

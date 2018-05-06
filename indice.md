@@ -1,4 +1,5 @@
 # INDICE
-- [Página de inicio](../README.md)
+- [Página de inicio](./)
 - [Glosario](./contenido/glosario.md)
 - [Quien hace qué](./contenido/quienhaceque.md)
+- [Aspecto Social](./social.md)

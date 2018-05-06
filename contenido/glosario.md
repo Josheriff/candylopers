@@ -57,7 +57,7 @@ El Open Source representa tantas cosas y tan positivas que me es imposible defin
 
 ¡¡ VIVA EL OPEN SOURCE !!
 
-### Programar
+### Programar
 
 Lo que estás aprendiendo a aprender con este proyecto.
 

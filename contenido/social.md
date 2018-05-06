@@ -15,7 +15,7 @@ La visibilidad y la marca personal importa mucho para ese primer empleo, de hech
 
 No podemos olvidarnos de la parte social de github, plataforma que conocerás en breve, pero para que te hagas una idea, es como el facebook de los desarrolladores.
 
-En lugar de subir fotos, se suben los proyectos [Open Source](./glosario.md#open) que realizan en su tiempo libre, dejando testimonio de lo mucho que están implicados con su pasión. El desarrollo.
+En lugar de subir fotos, se suben los proyectos [Open Source](./glosario.md#open-source) que realizan en su tiempo libre, dejando testimonio de lo mucho que están implicados con su pasión. El desarrollo.
 
 ## Consejillos para el postureo
 

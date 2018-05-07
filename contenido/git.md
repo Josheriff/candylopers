@@ -82,7 +82,7 @@ Una vez logueado tienes que estar en [Github](https://github.com/), a la derecha
 te llevará a un menú como el que te muestro a continuación comentado por mí en letras anaranjadas:
 
 
-![](./img/git/newrepository.png)
+![](./img/git/crearrepo.png)
 
 ## Clonación en tu ordenador para futuras sincronizaciones
 

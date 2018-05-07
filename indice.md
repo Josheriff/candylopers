@@ -3,3 +3,5 @@
 - [Glosario](./contenido/glosario.md)
 - [Quien hace qué](./contenido/quienhaceque.md)
 - [Aspecto Social](./contenido/social.md)
+- [Git y Github](./contenido/git.md)
+- [Editor o IDE](./contenido/editor.md)

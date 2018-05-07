@@ -24,8 +24,7 @@ En lugar de subir fotos, se suben los proyectos [Open Source](./glosario.md#open
 - Utiliza hashtags relacionados con el aprendizaje de la programación #100daysofcode, #candyloper, #NaNisNotAFunction.
 - Apuntate a los meetups de tu ciudad, y ve a eventos, conoce gente.
 - Menciona en tus cuentas de vez en cuando a comunidades de desarrollo como @osweekends o @t3chfest, inspírate en sus logos, en sus colores para diseñar tus proyectos y dales las gracias por inspirarte.
-- No seas borde.
-- BOLA EXTRA, se ha creado la cuenta de twitter ***@candylopers*** que procurará dar visibilidad a todos aquellos que aprendan con el proyecto o participen en el.
+- BOLA EXTRA, se ha creado la cuenta de twitter ***@candylab*** que procurará dar visibilidad a todos aquellos que aprendan con el proyecto o participen en el.
 
 Por supesto todo esto no es para nada necesario, habrá gente que se sentirá tremendamente incomoda realizando este tipo de acciones, máxime habiendo sido presentadas aquí mismo como postureo. En tal caso has de saber que no es necesario.
 

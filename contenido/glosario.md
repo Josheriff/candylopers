@@ -17,7 +17,7 @@ Una empresa que ejerza los valores agile de manera responsable para los trabajad
 
 ### Ansible
 
-Progama que automatiza ciertas configuraciones en sistemas linux, espcialmente útil si hay necesidad de tener varios sistemas con la misma configuración.
+Programa que automatiza ciertas configuraciones en sistemas linux, espcialmente útil si hay necesidad de tener varios sistemas con la misma configuración.
 
 ### Backend
 [Definición extensa](./quienhaceque.md#back-end) 
@@ -25,6 +25,10 @@ Progama que automatiza ciertas configuraciones en sistemas linux, espcialmente �
 ### Bullshit
 
 Traducido literalmente significa "mierda de toro", es un termino muy extendido para indicar que algo no va al grano, no aporta, en resumen, "es una mierda".
+
+### Consola
+
+Lo mismo que [Terminal](#terminal)
 
 ### Framework
 
@@ -64,6 +68,17 @@ Lo que estás aprendiendo a aprender con este proyecto.
 Tiene muchas interpretaciones, entre las cuales se encuentran:
 
 - Dividir un problema grande en muchos pequeños y mas fáciles de solucionar.
+ 
+### Terminal
+
+Programa de introducción de comandos que todos los sistemas Unix tienen por defecto, haciendo una analogía sería como el MS-DOS de Windows.
+
+Es la herramienta principal para administrar sistemas, y multitud de programas que se usan en el mundo del desarrollo funcionan en la terminal o basandose en esta.
+
+Aspecto de una terminal:
+
+![](./contenido/img/glosario/terminal.jpg)
+
 
 ### Typo
 

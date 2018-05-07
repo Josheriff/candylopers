@@ -1,13 +1,11 @@
 
-
-# Candylopers
+# [INDICE](./indice.md)
 
 ## EN PROCESO
 Este proyecto está actualmente en proceso, sin fecha de finalización determinada, puedes ir consultando el contenido y haciendo sugerencias o colaborar.
 
 Cuando el proyecto tenga un alcance suficiente para alcanzar alguno de los objetivos, quitaré el titulo de En proceso y su descripción.
 
-## INDICE AL FINAL DEL DOCUMENTO
 
 ## Motivación
 Desde que aprendí a programar por mi cuenta y conseguí trabajo, hay bastante gente que se acerca a un Open Source Weekends a preguntarme como pueden hacer lo mismo.
@@ -59,5 +57,3 @@ Este es un proyecto a largo plazo que está empezando en Mayo del 2018, no se de
 - **Cambios de Indice "justos":**
 Como ya he comentado es posible que tenga que hacer cambios en el indice, estos estarán basados en la necesidad del momento en el que los escriba, y en la experiencia que tenga en ese momento.
 Siempre intentaré ofrecer el mejor material posible dentro de mis circunstancias.
-
-# [INDICE](./indice.md)

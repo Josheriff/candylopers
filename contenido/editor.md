@@ -32,8 +32,16 @@ Puedes descargar Visual Studio Code [aquí](https://code.visualstudio.com/downlo
 
 - Para abrir una carpeta nos vamos archivo, abrir, y seleccionamos la carpeta con la que queremos trabajar
 - Si te fijas en la parte izquierda tienes una barra con los siguientes iconos:
-![](./img/editor/barra.png)
-- Para ver los archivos que tenemos dentro de la carpeta 
+
+  ![](./img/editor/botonera.png) 
+
+- Para ver los archivos que tenemos dentro de la carpeta usamos el explorador
+- La busqueda vale para buscar texto en todo el proyecto o en el archivo abierto, también vale para sustituir una palabra.
+- Las herramientas de git, las veremos en profundidad un poco mas adelante
+- El debugger no vamos a usarlo en principio, aunque si al final aprendo a usarlo igual hasta es útil y todo :P
+- Los plugins, sirven para expandir la funcionalidad del editor.
+
+A continuación dejo un pequeño video de como abrir una carpeta con VScode.
 
 <video controls autoplay width="100%">
   <source src="./img/editor/vscodeOpen.mp4" type="video/mp4">

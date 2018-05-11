@@ -30,5 +30,9 @@ Puedes descargar Visual Studio Code [aquí](https://code.visualstudio.com/downlo
 
 ### Descripción y uso
 
+<video controls autoplay>
+  <source src="./img/editor/vscodeOpen.mp4" type="video/mp4">
+</video>
+
 ### Plugins
 

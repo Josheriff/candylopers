@@ -30,6 +30,11 @@ Puedes descargar Visual Studio Code [aquí](https://code.visualstudio.com/downlo
 
 ### Descripción y uso
 
+- Para abrir una carpeta nos vamos archivo, abrir, y seleccionamos la carpeta con la que queremos trabajar
+- Si te fijas en la parte izquierda tienes una barra con los siguientes iconos:
+![](./img/editor/barra.png)
+- Para ver los archivos que tenemos dentro de la carpeta 
+
 <video controls autoplay width="100%">
   <source src="./img/editor/vscodeOpen.mp4" type="video/mp4">
 </video>

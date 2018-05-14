@@ -35,3 +35,5 @@ Intentar aconsejar a aquellos que están empezando con lo que me hubiera gustado
 Hacerles pues las cosas más fáciles.
 
 Te invito a que hagas ruido en redes sociales, escribas artículos y en definitiva fragües una marca personal atractiva para quien pueda querer contratar a un desarrollador que está empezando.
+
+[TEMA ANTERIOR](./quienhaceque.md) || [SIGUIENTE TEMA](./git.md)

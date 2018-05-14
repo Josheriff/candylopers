@@ -161,3 +161,5 @@ Para confirmar que se ha sincronizado adecuadamente, no tienes mas que visitar:
 https://github.com/tuNombreUsuario/nombreDeRepositorio
 ```
 
+
+[TEMA ANTERIOR](./social.md) || [SIGUIENTE TEMA](./editor.md)

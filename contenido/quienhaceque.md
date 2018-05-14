@@ -89,3 +89,5 @@ Los sysadmin, o administradores de sistemas, son expertos en servidores y se enc
 Para ello son principalmente expertos en [Unix](./glosario.md#unix), y además en herramientas diseñadas para ellos como pueda ser Docker, o [Ansible.](./glosario.md#ansible)
 
 Es una tarea tan difícil de realizar como de definir Apropiadamente.
+
+[SIGUIENTE TEMA](./social.md)

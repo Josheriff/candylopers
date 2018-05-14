@@ -49,3 +49,19 @@ A continuación dejo un pequeño video de como abrir una carpeta con VScode.
 
 ### Plugins
 
+Para el proyecto el único plugin que voy a recomendar es el "Vs live share" por si llegado el caso encuentras un compañero o compañera de aventuras podáis compartir editor y consola.
+
+Un poco mas abajo dejo un video de como instalarlo e identificarse mediante github.
+
+Pinchando en el botón de plugins escribimos Vs live share y damos a instalar al primer resultado, esperamos que finalice la instalación.
+
+Recargamos el editor y abajo nos saldrá el botón de "log in", nos abrirá una ventana de nuestro navegador, y pincharemos en github.
+
+Si estás logueado en tu cuenta de github, te identificará y ya podrás pinchar en share, tras lo cual, cuando aparezca la ventana emergente
+podrás quedará copiado en tu portapapeles una dirección que si pasas a un amigo mediante chat y el pincha Y TIENE EL MISMO PLUGIN. Se unirá a tu editor.
+
+<video controls autoplay width="100%">
+  <source src="./img/editor/vsshare.mp4" type="video/mp4">
+</video>
+
+

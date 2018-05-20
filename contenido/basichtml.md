@@ -154,4 +154,4 @@ La propiedad `autoplay` especifica en las etiquetas de video si el video debe in
 
 Las propiedades las iremos descubriendo según las vayamos necesitando al igual que con los estilos.
 
-[TEMA ANTERIOR](./quienhaceque.md) || [SIGUIENTE TEMA](./git.md)
+[TEMA ANTERIOR](./editor.md) || [SIGUIENTE TEMA](./etiquetas.md)

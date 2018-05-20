@@ -9,7 +9,7 @@ Algunos de los que usan el hashtag en twitter acaban siendo contratados antes de
 
 Es importante también ir a [meetups](./glosario.md#meetup) o incluso pertenecer a alguna comunidad de desarrollo, se hace mucho [networking](./glosario.md#networking) y puedes conocer o hablar con la persona que te encuentre tu primer empleo en el mundo del desarrollo.
 
-No cortarse en escribir artículos mas extensos, y no quedarse solo en Twitter, se pueden usar plataformas como medium o incluso llevar un blog o una newslater.
+No cortarse en escribir artículos mas extensos, y no quedarse solo en Twitter, se pueden usar plataformas como medium o incluso llevar un blog o una newsletter.
 
 La visibilidad y la marca personal importa mucho para ese primer empleo, de hecho es algo que a mucha gente fastidia, o incluso puede fastidiarte a tí mientras lees estas lineas, pero es una realidad, que actualmente cuesta menos encontrar ese primer trabajo o se es mas valorado por la marca personal independientemente del nivel como programador.
 

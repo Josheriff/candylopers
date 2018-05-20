@@ -1,5 +1,5 @@
 
-# [INDICE](./indice.md)
+# INICIO
 
 ## EN PROCESO
 Este proyecto está actualmente en proceso, sin fecha de finalización determinada, puedes ir consultando el contenido y haciendo sugerencias o colaborar.
@@ -57,3 +57,5 @@ Este es un proyecto a largo plazo que está empezando en Mayo del 2018, no se de
 - **Cambios de Indice "justos":**
 Como ya he comentado es posible que tenga que hacer cambios en el indice, estos estarán basados en la necesidad del momento en el que los escriba, y en la experiencia que tenga en ese momento.
 Siempre intentaré ofrecer el mejor material posible dentro de mis circunstancias.
+
+[Indice](./indice.md) || [Glosario](./contenido/glosario.md)

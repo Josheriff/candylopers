@@ -63,3 +63,95 @@ Todo el contenido EN HTML, se encontrará dentro de la etiqueta `<body>`, es dec
 entre `<body>` y `</body>`
 
 Ahora veremos en profundidad, la apertura y cierre de etiquetas.
+
+## Etiquetas HTML
+
+Hay mas de 100 etiquetas HTML, nosotros no vamos a aprenderlas todas, de hecho nosotros vamos a utilizar etiquetas semanticamente MAL.
+
+La maquetación es compleja cuando se realiza de manera exhaustiva, no obstante nosotros la utilizaremos para apoyarnos a aprender a programar viendo resultados mas bonitos.
+
+Las etiquetas son como cajas que encierran contenido, hay que decirle al navegador que es lo que encierra esa caja, por lo tanto.
+
+Si queremos convertir en titulo una frase, como puede ser:
+
+```
+Mi Curriculum
+```
+
+Tendremos que decirle que ese texto está encerrado en una caja del tipo `h1`, se hace de la siguiente forma:
+
+```html
+<h1> Mi curriculum </h1>
+```
+Fijate para abrir ponemos simplemente el nombre de la etiqueta o tag entre los simbolos `< >` , y para cerrar, añadimos `/` detras del primer `<` . Es decir:
+
+`<etiqueta>` ***contenido*** `</etiqueta>`
+
+Las cajas a su vez las vamos a categorizar en dos tipos.
+
+**Cajas bloque** -> Se "apilan" una debajo de otra, por ejemplo:
+
+```html
+<p>Hola</p> <p>Mundo</p>
+```
+
+Dará como resultado:
+
+```
+Hola
+Mundo
+```
+
+**Cajas en Linea** -> Se suceden, en la misma linea:
+
+```html
+<p> 
+<span>Hola </span> <span>Mundo</span> 
+</p>
+```
+
+Dará como resultado:
+
+```
+Hola Mundo
+```
+
+Como puedes observar dentro de la etiqueta `p` he metido 2 etiquetas `span` al ser estas elementos en linea, se leerán las palabras una detras de otra.
+Puede que ahora mismo no tenga mucho sentido hacer esto, pero te adelanto que haciendo esto podrías por ejemplo poner el contenido del primer `span` "Hola" de un color
+y el contenido del segundo `span` "Mundo" de otro color.
+
+## Etiquetas que no se cierran
+
+Veremos algunas etiquetas que no necesitan apertura y cierre dado que son etiquetas de estilo.
+
+Por ejemplo `<br>` (del ingle break line), simplemente hace un salto de linea, osea, termina la linea y se va una mas abajo:
+
+```html
+<p>
+Hola <br>
+Candyloper
+</p>
+```
+
+Saltará la linea detras del hola, por lo que quedará:
+
+```
+Hola
+Candyloper
+```
+
+La etiqueta `img` tampoco necesitará cerrarse pues sirve para mostrar imagenes.
+
+## Propiedades de las etiquetas
+
+Las etiquetas pueden tener propiedades y estílo.
+
+Las propiedades especifican un comportamiento esperado. Por ejemplo.
+
+La propiedad `src` especifica una ruta (la ruta de una imagen por ejemplo)
+
+La propiedad `autoplay` especifica en las etiquetas de video si el video debe intentar autoreproducirse.
+
+Las propiedades las iremos descubriendo según las vayamos necesitando al igual que con los estilos.
+
+[TEMA ANTERIOR](./quienhaceque.md) || [SIGUIENTE TEMA](./git.md)

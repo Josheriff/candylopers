@@ -90,3 +90,5 @@ Error tipográfico, es decir, se te resbala una letra, por ejemplo escribir "Pog
 Sistema operativo libre que se maneja desde la consola o terminal, es decir, introduciendo ordenes escritas sin entorno gráfico.
 
 Mac OS X y Linux en todos sus sabores, están basados en Unix.
+
+[Indice](../indice.md)

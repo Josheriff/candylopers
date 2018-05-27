@@ -83,7 +83,7 @@ Tendremos que decirle que ese texto está encerrado en una caja del tipo `h1`, s
 ```html
 <h1> Mi curriculum </h1>
 ```
-Fijate para abrir ponemos simplemente el nombre de la etiqueta o tag entre los simbolos `< >` , y para cerrar, añadimos `/` detras del primer `<` . Es decir:
+Fijate para abrir ponemos simplemente el nombre de la etiqueta o tag entre los símbolos `< >` , y para cerrar, añadimos `/` detrás del primer `<` . Es decir:
 
 `<etiqueta>` ***contenido*** `</etiqueta>`
 
@@ -154,4 +154,4 @@ La propiedad `autoplay` especifica en las etiquetas de video si el video debe in
 
 Las propiedades las iremos descubriendo según las vayamos necesitando al igual que con los estilos.
 
-[TEMA ANTERIOR](./editor.md) || [SIGUIENTE TEMA](./etiquetas.md)
+[TEMA ANTERIOR](./editor.md) || [SIGUIENTE TEMA](./crearportfolio.md)

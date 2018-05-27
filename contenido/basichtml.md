@@ -9,8 +9,8 @@ No soy un experto en html ni pretendo ofender a quien lo sea, este poco de HTML 
 poder poner los resultados de una forma mas visual y atractiva, estimulando en la medida de lo posible a quien
 esté siguiendo este proyecto.
 
-El HTML por si solo da para otro proyecto como este y como muchos mas si además lo convinas con CSS como es lo normal,
-así que no debe tomarse esta brevísima introducción como una biblia ni mucho menos, es una ínfima introducción que pretende
+El HTML por si solo da para otro proyecto como este y como muchos mas si además lo combinas con CSS como es lo normal,
+así que no debe tomarse esta brevísima introducción como una bíblia ni mucho menos, es una ínfima introducción que pretende
 enseñar que no solo de estructuras de datos vive el desarrollador.
 
 Dicho lo cual **SE** **ACEPTAN** **PRs**
@@ -19,10 +19,10 @@ Dicho lo cual **SE** **ACEPTAN** **PRs**
 
 ¿Recuerdas la última vez que hiciste un documento en word?
 
-Podías poner titulos, subtitulos, cambiar el tamaño de la letra, el interliniado, poner imagenes, videos...
+Podías poner títulos, subtítulos, cambiar el tamaño de la letra, el interlineado, poner imágenes, videos...
 
 El HTML sirve para lo mismo pero HIPERVITAMINADO, se pueden hacer esas cosas y mejor, se puede hacer con código.
-Se le puede añadir animaciones y vistosisimos efectos mediante CSS, y se le puede añadir interacción con Javascript.
+Se le puede añadir animaciones y vistosísimos efectos mediante CSS, y se le puede añadir interacción con Javascript.
 
 En esta pequeña introducción te explico como hacer las cosas más básicas, pero muy muy básicas, lo suficiente para
 que puedas mostrar los datos de una forma mas humana.
@@ -31,7 +31,7 @@ que puedas mostrar los datos de una forma mas humana.
 
 Vamos a aprender lo suficiente como para escribir un curriculum con foto en html.
 
-Con sus titulos, subtitulos, foto, listado de capacidades, etc...
+Con sus títulos, subtítulos, foto, listado de capacidades, etc...
 
 ## Estructura base
 
@@ -56,7 +56,7 @@ Esta es la estructura base de toda página html, puede sufrir algunas variacione
 De hecho, si abres vscode, le dices que estas trabajando en un archivo html, o bien guardando el archivo vacío como `nombrearhivo.html`
 , o abajo a la derecha seleccionando como formato html. podrás aprovechar los "snippets" o trozos de código que se repiten.
 
-escribiendo `html:5` y dando a la tecla `ENTER` o `Tabulador`. Se escribirá automaticamente la esturctura base.
+escribiendo `html:5` y dando a la tecla `ENTER` o `Tabulador`. Se escribirá automáticamente la estructura base.
 
 Todo el contenido EN HTML, se encontrará dentro de la etiqueta `<body>`, es decir:
 
@@ -66,7 +66,7 @@ Ahora veremos en profundidad, la apertura y cierre de etiquetas.
 
 ## Etiquetas HTML
 
-Hay mas de 100 etiquetas HTML, nosotros no vamos a aprenderlas todas, de hecho nosotros vamos a utilizar etiquetas semanticamente MAL.
+Hay mas de 100 etiquetas HTML, nosotros no vamos a aprenderlas todas, de hecho nosotros vamos a utilizar etiquetas semánticamente MAL.
 
 La maquetación es compleja cuando se realiza de manera exhaustiva, no obstante nosotros la utilizaremos para apoyarnos a aprender a programar viendo resultados mas bonitos.
 
@@ -105,8 +105,8 @@ Mundo
 **Cajas en Linea** -> Se suceden, en la misma linea:
 
 ```html
-<p> 
-<span>Hola </span> <span>Mundo</span> 
+<p>
+<span>Hola </span> <span>Mundo</span>
 </p>
 ```
 
@@ -124,7 +124,7 @@ y el contenido del segundo `span` "Mundo" de otro color.
 
 Veremos algunas etiquetas que no necesitan apertura y cierre dado que son etiquetas de estilo.
 
-Por ejemplo `<br>` (del ingle break line), simplemente hace un salto de linea, osea, termina la linea y se va una mas abajo:
+Por ejemplo `<br>` (del ingle break line), simplemente hace un salto de linea, oséa, termina la linea y se va una mas abajo:
 
 ```html
 <p>
@@ -133,7 +133,7 @@ Candyloper
 </p>
 ```
 
-Saltará la linea detras del hola, por lo que quedará:
+Saltará la linea detrás del hola, por lo que quedará:
 
 ```
 Hola
@@ -144,7 +144,7 @@ La etiqueta `img` tampoco necesitará cerrarse pues sirve para mostrar imagenes.
 
 ## Propiedades de las etiquetas
 
-Las etiquetas pueden tener propiedades y estílo.
+Las etiquetas pueden tener propiedades y estilo.
 
 Las propiedades especifican un comportamiento esperado. Por ejemplo.
 

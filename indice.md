@@ -6,4 +6,4 @@
 - [Git y Github](./contenido/git.md)
 - [Editor o IDE](./contenido/editor.md)
 - [Html Básico](./contenido/basichtml.md)
-    - [Etiquétas html que usaremos](./contenido/etiquetas.md)
+- [Crear portfolio con Github Pages](./contenido/crearportfolio.md)

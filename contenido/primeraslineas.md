@@ -56,3 +56,17 @@ En VsCode se hará como muestra la secuencia de imágenes a continuación marcad
 ![](./img/git/vscodeflow/03.png)
 ![](./img/git/vscodeflow/04.png)
 ![](./img/git/vscodeflow/05.png)
+
+## Comprobar
+
+Si ahora vas a https://github.com/tunick/Portfolio
+
+Comprobarás que hay un arhivo nuevo llamado index.html que acabas de crear.
+
+si te dirijes a:
+
+https://tunick.github.io/portfolio
+
+Verás el html renderizado, es decir en la parte de arriba del navegador, en la barra de arriba del todo pondrá:
+
+"Mi portfolio"

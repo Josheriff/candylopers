@@ -15,4 +15,38 @@ haciendolas con vsCode.
 
 ## Crear index.html
 
-Una vez abierta nuestra carpeta desde el editor, vamos a crear un archivo llamado `index.html` y sigue las instrucciones dadas [aquí](./basichtml.md#estructura)
+Una vez abierta nuestra carpeta desde el editor, vamos a crear un archivo llamado `index.html`, sigue las instrucciones dadas en el apartado [Estructura Base](./basichtml.md#estructura-base) vuelve atrás para continuar y salva los cambios.
+
+Tendremos algo parecido a esto:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8">
+   <title>Titulo que aparece en la barra de arriba</title>
+  </head>
+
+ <body>
+ Contenido que luego explicaremos como enriquecer
+ </body>
+
+</html>
+
+```
+
+Cambia el contenido de la etiqueta title, y en lugar de poner "Titulo que aparece..."
+
+Pon "Portfolio de (tuNombre)"
+
+Y quita el contenido del Body y escribe, "EN PROCESO"
+
+Graba los cambios.
+
+## Subiendo los cambios a github.
+
+Puedes o bien seguir las instrucciones del apartado [sincronización y comandos](./git.md#sincronizacion-y-comandos)
+
+O bien utilizar la caracteristica de git que tiene el editor.
+
+En VsCode se hará de la siguiente manera:

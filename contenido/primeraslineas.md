@@ -49,4 +49,10 @@ Puedes o bien seguir las instrucciones del apartado [sincronización y comandos]
 
 O bien utilizar la caracteristica de git que tiene el editor.
 
-En VsCode se hará de la siguiente manera:
+En VsCode se hará como muestra la secuencia de imágenes a continuación marcado en naranja:
+
+![](./img/git/vscodeflow/01.png)
+![](./img/git/vscodeflow/02.png)
+![](./img/git/vscodeflow/03.png)
+![](./img/git/vscodeflow/04.png)
+![](./img/git/vscodeflow/05.png)

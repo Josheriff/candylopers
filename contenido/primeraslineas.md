@@ -70,3 +70,33 @@ https://tunick.github.io/portfolio
 Verás el html renderizado, es decir en la parte de arriba del navegador, en la barra de arriba del todo pondrá:
 
 "Mi portfolio"
+
+## Poniendo un título al documento
+
+Todo lo que se escriba dentro de la etiqueta `body` será lo que aparezca en la página.
+
+Dentro de `body` vamos a crear un encabezado, un titulo grande que de contexto al portfolio.
+
+Así pues dentro de la equiqueta `body` vamos a escribir `<h1>Mi Portfolio</h1>`
+
+Quedando el conjunto de todo, así:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="UTF-8">
+   <title>Titulo que aparece en la barra de arriba</title>
+  </head>
+
+ <body>
+   <h1>Mi Portfolio</h1>
+ </body>
+
+</html>
+
+```
+
+
+
+[TEMA ANTERIOR](./crearportfolio.md) || [SIGUIENTE TEMA](./rellenando.md)

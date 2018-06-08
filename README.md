@@ -42,7 +42,7 @@ Como objetivo secundario tenemos también calmar mis ansias de enseñar, y poder
 # Disclaimer:
 
 - **Deberías aprender inglés:**
-El inglés domina por completo el mundo del desarrollo, no solo está considerado una buena práctica™ , sino que la mayoría de artículos y ayudas online, están en el lenguaje anglosajón.
+El inglés domina por completo el mundo del desarrollo, no sólo está considerado una buena práctica™ , sino que la mayoría de artículos y ayudas online, están en el lenguaje anglosajón.
 
 - **Proyecto 100% en Español, 100% al grano:**
 Justo después de recomendar aprender inglés, te digo que este proyecto será en Español, las terminologías o jerga en inglés procuraré explicarla y aglomerarla en un glosario.

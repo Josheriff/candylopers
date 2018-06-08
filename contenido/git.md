@@ -146,7 +146,7 @@ Se puee hacer `git add .` vease el punto... para añadir todo, aunque no está c
 
 Por último:
 
-`git push`, si has hecho pull, add, commit, ahora solo te queda hacer `push` que subirá los archivos a la nube, probablemente te pida usuario y contraseña, puedes usar el email o el nick que eligieras en github, y la contraseña siempre es la misma.
+`git push`, si has hecho pull, add, commit, ahora sólo te queda hacer `push` que subirá los archivos a la nube, probablemente te pida usuario y contraseña, puedes usar el email o el nick que eligieras en github, y la contraseña siempre es la misma.
 
 
 ## Ejercicio

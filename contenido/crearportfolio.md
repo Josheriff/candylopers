@@ -18,12 +18,12 @@ Como ya te he comentado, un portfolio es una página web, que viene siendo un cu
 
 Afortunadamente Github permite el uso del llamado "github pages", lo que significa que puedes alojar en github tantos proyectos frontend como quieras
 y que estos sean una página web, de tal forma que si accedes al repositorio a través del dominio "tunombre.github.io/nombreDelProyecto" el navegador usará ese código ya que
-no es ni mas ni menos que otra pagina web, solo que está directamente alojada en github... Cómodo ¿Verdad?
+no es ni mas ni menos que otra pagina web, sólo que está directamente alojada en github... Cómodo ¿Verdad?
 
 Si accedes al código por el dominio "github.com/tunick/turepo" seguirás viendo el código como hasta ahora.
 
-Por lo tanto, alojando nuestro portfolio en github pages solo tenemos que subir el código a github y acceder mediante "tunombre.github.io/nombreDelProyecto", sin tener que
-comprar dominios, ni servidores ni alojamiento ni nada, solo hacer push y listo.
+Por lo tanto, alojando nuestro portfolio en github pages sólo tenemos que subir el código a github y acceder mediante "tunombre.github.io/nombreDelProyecto", sin tener que
+comprar dominios, ni servidores ni alojamiento ni nada, sólo hacer push y listo.
 
 ## Procedimiento
 
@@ -46,7 +46,7 @@ Hemos elegido "master branch" porque es la rama principal si hubieramos elegido 
 
 Esto último es útil cuando estás desarrollando un producto y quieres dejar documentación para los futuros posibles usuarios del mismo.
 
-Para nosotros la opción "master" será la mas cómoda, pues solo tendremos que hacer push de nuestro código y este quedará automáticamente publicado.
+Para nosotros la opción "master" será la mas cómoda, pues sólo tendremos que hacer push de nuestro código y este quedará automáticamente publicado.
 
 A partir de ahora si visitas "https://tunick.github.io/portfolio" podrás visitar tú pagina de portfolio, que por ahora está vacía.
 

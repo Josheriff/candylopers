@@ -74,9 +74,9 @@ Es por contraposición a front-end el código que se ejecuta en el servidor, un 
 
 El back-end dejará abiertas "puertas" a las que el front-end podrá consultar datos, si el front-end cumple los requisitos, el backend realizará las tareas pertinentes y le devolverá los datos solicitados.
 
-Es importante señalar, que en principio el Back-end solo recibe datos, trata estos datos y devuelve datos tratados, en ningún caso debe mostrar como está tratando esos datos.
+Es importante señalar, que en principio el Back-end sólo recibe datos, trata estos datos y devuelve datos tratados, en ningún caso debe mostrar como está tratando esos datos.
 
-Si el backend y el frontend trabajan en la misma empresa para un solo producto, esta sintonía debería ser perfecta y el frontend solo tendría que molestarse en mostrar los datos de una manera "bonita" como se le ha indicado en la maquetación del producto, dejando pues la lógica al backend.
+Si el backend y el frontend trabajan en la misma empresa para un sólo producto, esta sintonía debería ser perfecta y el frontend sólo tendría que molestarse en mostrar los datos de una manera "bonita" como se le ha indicado en la maquetación del producto, dejando pues la lógica al backend.
 
 Si el backend y el frontend no son de la misma empresa, o el backend está pensado para explotarse desde muchos y diferentes fronts, entonces, el backend es posible que devuelva mas datos de la cuenta, o que los devuelva en un formato no optimo para lo que se busca. En este caso, el frontend tendrá que tratar los datos antes de mostrarlos.
 

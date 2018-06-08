@@ -9,9 +9,9 @@ No soy un experto en html ni pretendo ofender a quien lo sea, este poco de HTML 
 poder poner los resultados de una forma mas visual y atractiva, estimulando en la medida de lo posible a quien
 esté siguiendo este proyecto.
 
-El HTML por si solo da para otro proyecto como este y como muchos mas si además lo combinas con CSS como es lo normal,
+El HTML por si sólo da para otro proyecto como este y como muchos mas si además lo combinas con CSS como es lo normal,
 así que no debe tomarse esta brevísima introducción como una bíblia ni mucho menos, es una ínfima introducción que pretende
-enseñar que no solo de estructuras de datos vive el desarrollador.
+enseñar que no sólo de estructuras de datos vive el desarrollador.
 
 Dicho lo cual **SE** **ACEPTAN** **PRs**
 

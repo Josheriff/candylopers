@@ -49,7 +49,7 @@ Aplicación que agrupa personas con un interes común, también se usa para deno
 
 Charlar durante un evento con sus asistentes, normalmente con el objetivo de hacer conexiones profesionales.
 
-El networking funciona muchísimo mejor a la larga si no solo se espera recibir conexiones sino que también las facilitamos.
+El networking funciona muchísimo mejor a la larga si no sólo se espera recibir conexiones sino que también las facilitamos.
 
 ### Open Source
 

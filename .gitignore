@@ -1,3 +1,4 @@
 # Ignorando archivos de seguimiento tags
 tags
 .DS_Store
+node_modules

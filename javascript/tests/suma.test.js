@@ -1,10 +1,16 @@
 // RECUERDA EL GIVEN WHEN THEN
 
-test('two plus two is four', () => {
-  expect(2 + 2).toBe(4);
+describe('two plus two is four', () => {
+  it('first case:', () =>{
+    expect(2 + 2).toBe(4);
+  });
+  it('second case:',() =>{
+    expect(1 + 3).toBe(4);
+  });
+  
 });
 
-test('object assignment', () => {
+describe('object assignment', () => {
   const data = {one: 1};
   data.two = 2;
   

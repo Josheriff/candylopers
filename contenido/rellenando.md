@@ -1,3 +1,4 @@
+ 
  ## Rellenando el contenido
  
  Ya tenemos un título para nuestro curriculum, lo siguiente que se suele poner son los datos personales y la foto.
@@ -40,7 +41,7 @@ Debajo de la etiqueta `img` vamos a escribir texto, sirviendonos de la etiqueta 
 
 ```html
 <p>Mi nombre y apellidos</p>
-<p>Develper</p>
+<p>Developer</p>
 <p>midirecciondecorreo@candylab.com</p>
 ```
 

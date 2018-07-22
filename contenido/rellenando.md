@@ -1,5 +1,5 @@
  
- ## Rellenando el contenido
+## Rellenando el contenido
  
  Ya tenemos un título para nuestro curriculum, lo siguiente que se suele poner son los datos personales y la foto.
  
@@ -7,7 +7,7 @@
  
  Despues iremos desarrollando la formación académica en un apartado enumerado y la experiencia profesional en el siguiente.
  
- ### Poniendo la Imagen
+### Poniendo la Imagen
  
  Para poner la imagen utilizaremos la etiqueta `img` en cuyo interior en la propiedad `src` pondremos la dirección de la imagen.
  
@@ -86,4 +86,4 @@ habrás visto que al final he usado una etiqueta `hr` y lo que hace es dibujar u
 
 <hr />
 
-[TEMA ANTERIOR](./primeraslineas.md) || [SIGUIENTE TEMA](./.md)
+[TEMA ANTERIOR](./primeraslineas.md) || [SIGUIENTE TEMA](./resultadohtml.md)

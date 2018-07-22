@@ -37,6 +37,8 @@
 
 A partir de ahora no escribiré el total del html hasta el final de la página para no repetirnos demasiado.
 
+Eso sí, todo lo que escribamos debe ir siempre dentro de la etiqueta `<body>` que es el cuerpo de nuestra web
+
 Debajo de la etiqueta `img` vamos a escribir texto, sirviendonos de la etiqueta `p` que como norma mnemotécnica es p de Parrafo.
 
 ```html

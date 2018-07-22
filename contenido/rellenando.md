@@ -73,19 +73,28 @@ lista desordenada = `ul` (unordered list en inglés)
 Por lo tanto vamos a poner debajo del título Educación:
 
 ```html
-<li>
-    <ul>
-        <li>Candylab Marzo 2018 a la actualidad</li>
-        <li>Libros varios enriquecedores desde el 2016</li>
-        <li>Master en cosas útiles con su TFM y todo desde 2014 a la actualidad</li>
-    </ul>
-</li>
+<h3>Educación:</h3>
+<ul>
+    <li>Candylab Marzo 2018 a la actualidad</li>
+    <li>Libros varios enriquecedores desde el 2016</li>
+    <li>Master en cosas útiles con su TFM y todo desde 2014 a la actualidad</li>
+</ul>
 <hr />
-
 ```
 
 habrás visto que al final he usado una etiqueta `hr` y lo que hace es dibujar una linea horizontal para separar conceptos.
 
 <hr />
+
+Podemos hacer lo mismo con la experiencia laboral, con lo que poniendo un ejemplo inventado:
+
+```html
+<h3>Experiencia laboral:</h3>
+<ul>
+    <li>Consultora rancia de Marzo a Septiembre del 2017</li>
+    <li>Enseñanza en escuela puntera de Septiembre a Diciembre 2017</li>
+    <li>Trabajo en empresa de producto desde Octubre 2017 a la actualidad</li>
+</ul>
+```
 
 [TEMA ANTERIOR](./primeraslineas.md) || [SIGUIENTE TEMA](./resultadohtml.md)
